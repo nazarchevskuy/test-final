@@ -1,0 +1,24 @@
+.text{
+    height: 1550px;
+    width: 50px;
+    background: lime;
+}
+
+.text2{
+    height: 1550px;
+    width: 50px;
+    background: lime;
+}
+.test_elem{
+    margin: 1rem;
+    width: 50px;
+    height: 50px;
+    background: blue;
+}
+
+.test_elem2{
+    margin: 1rem;
+    width: 50px;
+    height: 50px;
+    background: bisque;
+}
